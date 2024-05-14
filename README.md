@@ -16,17 +16,17 @@ I am driven by the desire to significantly contribute to achieving objectives an
 ## 📫 Let's Connect!
 If you believe I can add value to your team or business, feel free to reach out! I'm always excited about new opportunities and collaborations.
 
-- 📧 Email: folivareslisperguer@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile-link)
+- 📧 folivareslisperguer@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/fernandaolivareslisperguer/?locale=en_US)
 
 ## 🌟 Projects
 Here are some of the projects I've worked on:
-- **[Project Name 1](https://github.com/your-profile/project1):** Brief description of what the project is about.
-- **[Project Name 2](https://github.com/your-profile/project2):** Brief description of what the project is about.
-- **[Project Name 3](https://github.com/your-profile/project3):** Brief description of what the project is about.
+- **[ Real Estate App](https://full-stack-project-front.vercel.app/)
+- **[F1-Legends](https://github.com/FOL-cr-pi-drivers-main)
+- **[Project Name 3](https://github.com/your-profile/project3)
 
 ## 📊 GitHub Stats
-![Fernanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Fernanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandaOlivares&show_icons=true&theme=radical)
 
 ## 🏆 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandaOlivares&layout=compact&theme=radical)
