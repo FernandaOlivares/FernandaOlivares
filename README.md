@@ -21,9 +21,8 @@ If you believe I can add value to your team or business, feel free to reach out!
 
 ## 🌟 Projects
 Here are some of the projects I've worked on:
-- **[ Real Estate App](https://full-stack-project-front.vercel.app/)
-- **[F1-Legends](https://github.com/FOL-cr-pi-drivers-main)
-- **[Project Name 3](https://github.com/your-profile/project3)
+- **[Real Estate Web App](https://full-stack-project-front.vercel.app/)**
+- **[F1 - Legends Web App](https://github.com/FernandaOlivares/FOL-cr-pi-drivers-main)**
 
 ## 📊 GitHub Stats
 ![Fernanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandaOlivares&show_icons=true&theme=radical)
